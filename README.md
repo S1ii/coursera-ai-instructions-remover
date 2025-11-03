@@ -466,7 +466,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - 🌟 **Star this repo** if you find it useful!
 - 🐛 **Report issues** on [GitHub Issues](https://github.com/yourusername/coursera-ai-instructions-remover/issues)
 - 💬 **Join discussions** in [GitHub Discussions](https://github.com/yourusername/coursera-ai-instructions-remover/discussions)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: ilya.sitnikov29@gmail.com
 
 ## 🗺️ Roadmap
 
