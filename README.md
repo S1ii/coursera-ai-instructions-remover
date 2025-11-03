@@ -6,7 +6,7 @@
 
 ### Smart Chrome Extension for Clean Learning Experience
 
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/yourusername/coursera-ai-instructions-remover/releases)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/S1ii/coursera-ai-instructions-remover/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Manifest V3](https://img.shields.io/badge/manifest-v3-orange.svg)](https://developer.chrome.com/docs/extensions/mv3/)
 
@@ -157,7 +157,7 @@ Coursera has recently added AI instruction banners throughout their platform. Wh
 
 1. **Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/coursera-ai-instructions-remover.git
+   git clone https://github.com/S1ii/coursera-ai-instructions-remover.git
    ```
 
 2. **Open Chrome Extensions** page:
@@ -349,9 +349,9 @@ Settings are automatically synced across all Chrome instances via `chrome.storag
 
 ### Getting Help
 
-- 📧 [Open an Issue](https://github.com/yourusername/coursera-ai-instructions-remover/issues)
-- 💬 Check [Discussions](https://github.com/yourusername/coursera-ai-instructions-remover/discussions)
-- 📖 Read [Wiki](https://github.com/yourusername/coursera-ai-instructions-remover/wiki)
+- 📧 [Open an Issue](https://github.com/S1ii/coursera-ai-instructions-remover/issues)
+- 💬 Check [Discussions](https://github.com/S1ii/coursera-ai-instructions-remover/discussions)
+- 📖 Read [Wiki](https://github.com/S1ii/coursera-ai-instructions-remover/wiki)
 
 ## 🤝 Contributing
 
@@ -369,7 +369,7 @@ Contributions are welcome! Here's how you can help:
 
 1. **Fork & Clone**
    ```bash
-   git clone https://github.com/yourusername/coursera-ai-instructions-remover.git
+   git clone https://github.com/S1ii/coursera-ai-instructions-remover.git
    cd coursera-ai-instructions-remover
    ```
 
@@ -464,8 +464,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ## 📞 Support & Contact
 
 - 🌟 **Star this repo** if you find it useful!
-- 🐛 **Report issues** on [GitHub Issues](https://github.com/yourusername/coursera-ai-instructions-remover/issues)
-- 💬 **Join discussions** in [GitHub Discussions](https://github.com/yourusername/coursera-ai-instructions-remover/discussions)
+- 🐛 **Report issues** on [GitHub Issues](https://github.com/S1ii/coursera-ai-instructions-remover/issues)
+- 💬 **Join discussions** in [GitHub Discussions](https://github.com/S1ii/coursera-ai-instructions-remover/discussions)
 - 📧 **Email**: ilya.sitnikov29@gmail.com
 
 ## 🗺️ Roadmap
@@ -496,7 +496,7 @@ Want to help with any of these? [Contribute!](#-contributing)
 
 ### ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/coursera-ai-instructions-remover&type=Date)](https://star-history.com/#yourusername/coursera-ai-instructions-remover&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=S1ii/coursera-ai-instructions-remover&type=Date)](https://star-history.com/#S1ii/coursera-ai-instructions-remover&Date)
 
 ---
 

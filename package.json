@@ -27,12 +27,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/coursera-ai-instructions-remover.git"
+    "url": "https://github.com/S1ii/coursera-ai-instructions-remover.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/coursera-ai-instructions-remover/issues"
+    "url": "https://github.com/S1ii/coursera-ai-instructions-remover/issues"
   },
-  "homepage": "https://github.com/yourusername/coursera-ai-instructions-remover#readme",
+  "homepage": "https://github.com/S1ii/coursera-ai-instructions-remover#readme",
   "devDependencies": {
     "eslint": "^8.0.0",
     "prettier": "^3.0.0"
